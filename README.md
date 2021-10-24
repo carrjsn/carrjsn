@@ -16,7 +16,7 @@ Greetings, Jason here! I'm a Full Stack Developer based in the San Francisco Bay
 
 - carrjsn@gmail.com
 
-- https://www.linkedin.com/in/carrjsn/
+- www.linkedin.com/in/carrjsn/
 
 <hr>
 
