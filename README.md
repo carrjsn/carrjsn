@@ -1,5 +1,5 @@
 ## Welcome to my Github
-Greetings, Jason here! I'm a Full Stack Developer based in San Francisco, CA and I enjoy turning interesting problems into practical real life tools. I have a passion for building anything related to music🎵 maps🗺 gaming🎮 puzzles🧩and nature🏔 . Thank you kindly for visiting
+Greetings, Jason here! I'm a Full Stack Developer based in the San Francisco Bay Area. I enjoy turning interesting problems into practical real life tools. I have a passion for building anything related to music🎵 maps🗺  gaming🎮  puzzles🧩  nature🏔  hiking🥾  sports🏒 and am always on the lookout to collaborate with other like-minded engineers. Thank you kindly for visiting
 
 ### Tech I use
 <p>
