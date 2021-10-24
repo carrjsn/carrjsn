@@ -40,6 +40,7 @@ https://www.linkedin.com/in/carrjsn/
   <img alt="aws" src="https://img.shields.io/badge/AWS-000111?logo=amazonaws&logoColor=white&style=for-the-badge" />
   <img alt="heroku" src="https://img.shields.io/badge/heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
   <img alt="webpack" src="https://img.shields.io/badge/webpack-8DD6F9?logo=webpack&logoColor=white&style=for-the-badge" />
   <img alt="babel" src="https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=white&style=for-the-badge" />
   <img alt="jest" src="https://img.shields.io/badge/jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
