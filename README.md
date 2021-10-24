@@ -14,10 +14,13 @@ ____/|__/  \___//_/  \___/ \____//_/ /_/ /_/\___/(_)
 
 Greetings, Jason here! I'm a Full Stack Developer based in the San Francisco Bay Area.
 
-Contact : carrjsn@gmail.com
+carrjsn@gmail.com
+
+https://www.linkedin.com/in/carrjsn/
+
 <hr>
 
-### Tech I use
+### Languages / Developer Tools
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
