@@ -1,7 +1,17 @@
 
-## welcome to my github
-My name is Jason and I'm a Full Stack Developer based in the San Francisco Bay Area.
 
+<pre>
+___       __    ______                           ______
+__ |     / /_______  /__________________ ___________  /
+__ | /| / /_  _ \_  /_  ___/  __ \_  __ `__ \  _ \_  / 
+__ |/ |/ / /  __/  / / /__ / /_/ /  / / / / /  __//_/  
+____/|__/  \___//_/  \___/ \____//_/ /_/ /_/\___/(_)  
+
+</pre>
+                                                    
+
+My name is Jason and I'm a Full Stack Developer based in the San Francisco Bay Area.
+ 
 Contact : carrjsn@gmail.com
 
 ### Tech I use
