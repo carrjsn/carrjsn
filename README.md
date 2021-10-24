@@ -16,6 +16,7 @@ Greetings, Jason here! I'm a Full Stack Developer based in the San Francisco Bay
 
 Contact : carrjsn@gmail.com
 <hr>
+
 ### Tech I use
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
