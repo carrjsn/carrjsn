@@ -1,5 +1,5 @@
-## Welcome to my gitworld
-Greetings! My name is Jason and I'm a Full Stack Developer based in the San Francisco Bay Area. I enjoy turning interesting problems into practical real life tools. I have a passion for building all things related to music🎵 maps🗺  gaming🎮  nature🏔  hiking🥾  sports🏒 and am always on the lookout to collaborate with other like-minded engineers.
+## welcome to my gitworld
+Greetings! My name is Jason and I'm a Full Stack Developer based in the San Francisco Bay Area. I enjoy turning pesky problems into practical real life tools. I have a passion for building all things related to music🎵 maps🗺  gaming🎮  nature🏔  hiking🥾  sports🏒 and am always on the lookout to collaborate with other like-minded engineers. Feel free to reach out and connect about anything or everything.. Thanks for visiting
 
 - 📫 : carrjsn@gmail.com
 
