@@ -1,5 +1,6 @@
+
 ## welcome to my github
-Greetings! My name is Jason and I'm a Full Stack Developer based in the San Francisco Bay Area. I enjoy turning pesky problems into practical real life tools. I have a passion for building all things related to **music, maps, gaming, nature** and am always on the lookout to collaborate with other like-minded engineers. Thanks for visiting
+My name is Jason and I'm a Full Stack Developer based in the San Francisco Bay Area.
 
 Contact : carrjsn@gmail.com
 
