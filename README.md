@@ -9,11 +9,13 @@ ____/|__/  \___//_/  \___/ \____//_/ /_/ /_/\___/(_)
 
 </pre>
                                                     
+### Welcome to my GitHub ###
+<hr>
 
-My name is Jason and I'm a Full Stack Developer based in the San Francisco Bay Area.
- 
+Greetings, Jason here! I'm a Full Stack Developer based in the San Francisco Bay Area.
+
 Contact : carrjsn@gmail.com
-
+<hr>
 ### Tech I use
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
