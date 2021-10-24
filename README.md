@@ -25,6 +25,7 @@ Greetings, Jason here! I'm a Full Stack Developer based in the San Francisco Bay
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="Node" src="https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img alt="Express" src="https://img.shields.io/badge/express-00BAFF?logo=express&logoColor=white&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white&style=for-the-badge" />
   <img alt="redux" src="https://img.shields.io/badge/redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
