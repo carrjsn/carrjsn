@@ -14,9 +14,9 @@ ____/|__/  \___//_/  \___/ \____//_/ /_/ /_/\___/(_)
 
 Greetings, Jason here! I'm a Full Stack Developer based in the San Francisco Bay Area.
 
-carrjsn@gmail.com
+- carrjsn@gmail.com
 
-https://www.linkedin.com/in/carrjsn/
+- https://www.linkedin.com/in/carrjsn/
 
 <hr>
 
